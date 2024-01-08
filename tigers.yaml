@@ -1,11 +1,10 @@
-team: Tigers
+steam: Tigers
 
 manager: Donald
 
-coach: 'Grace'
+coach: Grace
 
 members:
 - Linda
 - William
 - David
--'George'
